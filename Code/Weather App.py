@@ -33,7 +33,7 @@ def time_format_for_location(utc_with_tz):
 city_value = StringVar()
 
 def showWeather():
-    api_key = "7febb35f2635e1ed7acec50d9f21e5bd"
+    api_key = ""
 
     # Get city name from user from the Input field
     city_name = city_value.get()
